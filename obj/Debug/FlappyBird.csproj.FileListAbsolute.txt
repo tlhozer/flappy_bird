@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Projeler\FlappyBird\bin\Debug\PointYapısı.exe.config
+C:\Users\admin\Desktop\Projeler\FlappyBird\bin\Debug\PointYapısı.exe
+C:\Users\admin\Desktop\Projeler\FlappyBird\bin\Debug\PointYapısı.pdb
+C:\Users\admin\Desktop\Projeler\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projeler\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Projeler\FlappyBird\obj\Debug\PointYapısı.Form1.resources
+C:\Users\admin\Desktop\Projeler\FlappyBird\obj\Debug\PointYapısı.Properties.Resources.resources
+C:\Users\admin\Desktop\Projeler\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Projeler\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projeler\FlappyBird\obj\Debug\PointYapısı.exe
+C:\Users\admin\Desktop\Projeler\FlappyBird\obj\Debug\PointYapısı.pdb

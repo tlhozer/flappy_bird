@@ -1,0 +1,11 @@
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\bin\Debug\PointYapısı.exe.config
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\bin\Debug\PointYapısı.exe
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\bin\Debug\PointYapısı.pdb
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\obj\Debug\PointYapısı.csproj.AssemblyReference.cache
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\obj\Debug\PointYapısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\obj\Debug\PointYapısı.Form1.resources
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\obj\Debug\PointYapısı.Properties.Resources.resources
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\obj\Debug\PointYapısı.csproj.GenerateResource.cache
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\obj\Debug\PointYapısı.csproj.CoreCompileInputs.cache
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\obj\Debug\PointYapısı.exe
+C:\Users\FamilyOzer\Desktop\projelerim\PointYapısı\obj\Debug\PointYapısı.pdb
